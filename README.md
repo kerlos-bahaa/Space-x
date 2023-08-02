@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [space-x] 
+# 📖 [Space-x] 
 
 In this project, you will have access to rockets, missions and even to reserve and participate through our react application.
 
