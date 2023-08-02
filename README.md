@@ -132,7 +132,7 @@ To run tests, run the following command:
 👤 **Kerlos Bahaa**
 
 - GitHub: [@kerlos-bahaa](https://github.com/kerlos-bahaa)
-- Twitter: [@rodrigopenayo98](https://twitter.com/KerlosBahaa)
+- Twitter: [@kerlos-bahaa](https://twitter.com/KerlosBahaa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kerlos-bahaa-457a8925a/)
 
 
