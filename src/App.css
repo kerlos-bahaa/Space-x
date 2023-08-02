@@ -186,6 +186,7 @@ table th {
 
 .rocket-img {
   width: 17vw;
+  border-radius: 5px;
 }
 
 .rocket-btn {
@@ -222,19 +223,19 @@ table th {
 }
 
 .joined-btn {
-  width: 8vw;
   padding: 5px;
-  border: 1px solid rgb(155, 153, 153);
+  width: 8vw;
   border-radius: 3px;
   color: rgb(155, 153, 153);
+  border: 1px solid rgb(155, 153, 153);
 }
 
 .leave-btn {
+  color: rgb(250, 63, 63);
   width: 8vw;
   padding: 5px;
   border: 1px solid rgb(250, 63, 63);
   border-radius: 3px;
-  color: rgb(250, 63, 63);
   background: white;
 }
 
