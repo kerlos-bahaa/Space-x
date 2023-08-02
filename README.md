@@ -61,7 +61,7 @@ In this project, you will have access to rockets, missions and even to reserve a
 ## 💻 Getting Started 
 
 To get a local copy up and running, follow these steps.
-just visit my repo folder (https://github.com/kerlos-bahaa/space-x/tree/dev)
+just visit my repo folder (https://github.com/kerlos-bahaa/Space-x/tree/dev)
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder: 
-(https://github.com/rodrigopenayo98/space-x.git)
+(https://github.com/rodrigopenayo98/Space-x.git)
 
 ### Install
 
