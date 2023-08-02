@@ -1,11 +1,12 @@
 <!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [🛠️ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-<!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -15,47 +16,52 @@
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
+- [⭐ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Spaceship <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-In this project, you will have access to rockets, missions and dragons even to reserve and participate through our react application.
+# 📖 [Spaceship] 
+
+In this project, you will have access to rockets, missions and even to reserve and participate through our react application.
+
+## 🛠️ Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li>HTML and CSS</li>
-    <li>JavaScript</li>
-    <li>React</li>
+    <li><a href="https://html.org/">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https://css.com/">CSS</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features 
 
-- **React App**
-- **JSX**
-- **SPA**
+- *[Add Functionality]*
+- *[Remove Functionality]*
+- *[Edit Description Functionality]*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://rubydevi.github.io/todolist-minimalist/dist/) -->
-<!-- - N/A -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started 
+
+To get a local copy up and running, follow these steps.
+just visit my repo folder (https://github.com/kerlos-bahaa/react-capstone/tree/dev)
 
 ### Prerequisites
 
@@ -64,15 +70,10 @@ In order to run this project you need:
 2. VS Code or any code editor
 3. npm intalled
 
-
 ### Setup
 
-Clone this repository to your desired folder:
-```sh
-  cd my-folder
-  git clone git@github.com:rubydevi/react-group-project.git
-  cd react-group-project
-```
+Clone this repository to your desired folder: 
+(https://github.com/rodrigopenayo98/Bookstore-rod.git)
 
 ### Install
 
@@ -96,6 +97,7 @@ Install this project with:
 ```
 2. Don't forget to copy [.eslintrc.json](./.eslintrc.json) to the root directory of your project.
 
+
 ### Usage
 
 To run this project in the browser, simply open the index.html file in your preferred browser by running the code below in your terminal:
@@ -116,7 +118,8 @@ To run tests, run the following command:
  npx eslint "**/*.{js,jsx}"
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -125,7 +128,6 @@ To run tests, run the following command:
 - GitHub: [@rodrigopenayo98](https://github.com/rodrigopenayo98)
 - Twitter: [@rodrigopenayo98](https://twitter.com/rodrigopenayo98)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rodrigo-penayo-391226158/)
-
 
 👤 **Kerlos Bahaa**
 
@@ -140,9 +142,8 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Rockets List
-- Missions List
-- Dragons List
+-**[Responsive Design]**
+-**[Improve CSS Styles]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,24 +153,30 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rubydevi/react-group-project/issues).
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please leave a star, I'd really appreciate it.
+
+If you like this project give a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments <a name="acknowledgements"></a>
+<!-- ACKNOWLEDGEMENTS -->
 
-- I'd like to thank Microverse for this wonderful README template.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank Microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](https://github.com/rubydevi/react-group-project/blob/main/LICENSE) licensed.
+## 📝 License
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
