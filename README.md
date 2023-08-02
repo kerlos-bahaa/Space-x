@@ -49,9 +49,9 @@ In this project, you will have access to rockets, missions and even to reserve a
 
 ### Key Features 
 
-- *[Add Functionality]*
-- *[Remove Functionality]*
-- *[Edit Description Functionality]*
+- **React App**
+- **JSX**
+- **SPA**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
